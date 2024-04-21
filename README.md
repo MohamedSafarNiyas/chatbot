@@ -7,7 +7,7 @@ B.Tech - AD - ‘B’
 
 
 
-GITHUB LINK: https://github.com/Thamaraiselvan21ai/SLP-Assignment
+GITHUB LINK: https://github.com/MohamedSafarNiyas/chatbot
 
 CODE:
 
