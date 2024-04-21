@@ -321,22 +321,6 @@ while True:
 
 
 
-OUTPUT:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 DESCRIPTION OF THIS APPLICATION:
